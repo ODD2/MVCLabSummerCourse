@@ -4,7 +4,7 @@ import sys
 import os
 
 def PrintHelloMessage():
-    print("Hello")
+    print("Hello Nice to Meet You")
 
 
 if __name__=="__main__":
